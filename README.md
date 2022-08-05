@@ -1,0 +1,2 @@
+# EmployeeGrades
+The project was to use object-oriented programming mechanisms. The requirements of the program were the possibility for the user to enter the employee's working hours and grade of  his work. Based on the entered data, the program creates statistics for a given employee. Statistics are saved in a text file. The program displays statistics from freshly entered data and from general data saved in a text file.
